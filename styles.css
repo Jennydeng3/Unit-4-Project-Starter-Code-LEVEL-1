@@ -1,0 +1,53 @@
+div {text-align: center;
+
+   
+}
+
+img { width: 300px;  
+   
+}
+body {
+    background-color:#ffd9ad;
+    padding:0px;
+    margin:10px;
+    font-family: 'Dancing Script', cursive;
+}
+.header{
+    display:flex;
+    justify-content: center;
+    background-color:#ffe6e6;
+    margin:15px;
+    
+}
+    .menubar { 
+    display:flex;
+        
+}
+.m{
+    display:flex;
+    justify-content:center;
+    
+    
+}
+.o{
+    border:1px solid #660000;
+    margin: 20px;
+    padding:1px;
+    background-color: #ffe6e6;
+    color:#668cff;
+    
+}
+
+.border{
+   border:5px solid #660000; 
+    margin: 20px;
+    padding:10px;
+     background-color:white;
+    
+}
+.h{ 
+    margin:20px;
+    display:flex;
+    justify-content:center;
+    
+}
